@@ -1,3 +1,5 @@
+from utils import *
+
 class Aluno:
     def __init__(self, nome, nota1, nota2):
         self.nome = nome
